@@ -7,7 +7,7 @@ This repository is dedicated to sharing the EEG data analysis pipeline. Any ques
 - plot_results.m is a function that generates and saves the desired plots
 
 ## FOLDER STRUCTURE
-To keep the analysis always organized, follow the steps below for each data set (the /analysis_example folder contain a folder structure example)
+To keep the analysis always organized, follow the steps below for each data set 
 - Create a new folder with the subject name and inside this folder paste the .mff file
 - Paste the information table into the .mff folder
 - Open EEGLab and import the .mff file
